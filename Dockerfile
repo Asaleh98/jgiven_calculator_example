@@ -1,2 +1,2 @@
-FROM Scratch
+FROM scratch
 COPY app /app
