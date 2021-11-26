@@ -1,1 +1,1 @@
-COPY app
+COPY app /app
